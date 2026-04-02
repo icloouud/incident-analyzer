@@ -1,0 +1,12 @@
+[
+    "INFO: Service started",
+    "INFO: Connected to database",
+    "ERROR: Database connection timeout",
+    "ERROR: Database connection timeout",
+    "WARNING: Retrying connection",
+    "ERROR: Failed to fetch user data",
+    "INFO: Request latency increased to 1200ms",
+    "ERROR: Timeout in service A",
+    "INFO: CPU usage at 85%",
+    "ERROR: Service A dependency failure"
+  ]
